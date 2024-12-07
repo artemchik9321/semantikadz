@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "semantikadz", "semantikadz.vcxproj", "{6D7FA9BD-C331-4EAE-A56F-97EBBABE5538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D7FA9BD-C331-4EAE-A56F-97EBBABE5538}.Debug|x64.ActiveCfg = Debug|x64
+		{6D7FA9BD-C331-4EAE-A56F-97EBBABE5538}.Debug|x64.Build.0 = Debug|x64
+		{6D7FA9BD-C331-4EAE-A56F-97EBBABE5538}.Debug|x86.ActiveCfg = Debug|Win32
+		{6D7FA9BD-C331-4EAE-A56F-97EBBABE5538}.Debug|x86.Build.0 = Debug|Win32
+		{6D7FA9BD-C331-4EAE-A56F-97EBBABE5538}.Release|x64.ActiveCfg = Release|x64
+		{6D7FA9BD-C331-4EAE-A56F-97EBBABE5538}.Release|x64.Build.0 = Release|x64
+		{6D7FA9BD-C331-4EAE-A56F-97EBBABE5538}.Release|x86.ActiveCfg = Release|Win32
+		{6D7FA9BD-C331-4EAE-A56F-97EBBABE5538}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4D89CE-0C62-4E0C-9C94-462F5FE3E203}
+	EndGlobalSection
+EndGlobal
